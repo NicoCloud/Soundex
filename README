@@ -1,0 +1,22 @@
+Soundex
+
+Status: Complete
+
+What this program does:
+Soundex is an algorithm or a way of coding names based on their sound rather than their spelling.
+A useful historical and research record, this program reads in a list of names and creates their
+soundex keys. Other than making the keys this program uses a TreeMap to store, sort and search through
+the data.
+
+
+To Run:
+Download the source files
+and open in an editor or IDE.
+Run the soundex app.
+
+
+Ideas:
+While this project is complete there are some ideas for anyone who wants to revisit this project.
+This project reads in names from a text file and can add names for the duration of a session.
+However, what if someone wants to permenantly add that name for their future run sessions. Adding a 
+save function would prove beneficial for ease of use.
