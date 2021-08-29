@@ -1,5 +1,6 @@
 Soundex
 
+Language: Java
 Status: Complete
 
 What this program does:
@@ -11,7 +12,7 @@ the data.
 
 To Run:
 Download the source files
-and open in an editor or IDE.
+and open in a Java editor or IDE.
 Run the soundex app.
 
 
@@ -19,4 +20,4 @@ Ideas:
 While this project is complete there are some ideas for anyone who wants to revisit this project.
 This project reads in names from a text file and can add names for the duration of a session.
 However, what if someone wants to permenantly add that name for their future run sessions. Adding a 
-save function would prove beneficial for ease of use.
+save function would prove beneficial for ease of use. Another possibility is to create an actual database for the name data.
